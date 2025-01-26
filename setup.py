@@ -6,9 +6,9 @@ setup(
     description="A Django-compatible Python library for TZSMM Pay API",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    author="Your Name",
-    author_email="youremail@example.com",
-    url="https://github.com/yourgithub/tzsmmpay-django",
+    author="TZSMM Pay",
+    author_email="info@tzsmmpay.com",
+    url="https://github.com/tzsmm-pay/tzsmmpay-django",
     packages=find_packages(),
     install_requires=[
         "requests>=2.25.1",
